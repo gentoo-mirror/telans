@@ -1,12 +1,11 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install unpack
+DEFINED_PHASES=compile install
 DEPEND=dev-vcs/git
 DESCRIPTION=Extra GIT utilities - repo summary, changelog population, commit percentages and more
 EAPI=7
 HOMEPAGE=https://github.com/tj/git-extras
+KEYWORDS=amd64 x86
 LICENSE=MIT
-PROPERTIES=live
 RDEPEND=dev-vcs/git
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+SRC_URI=https://github.com/tj/git-extras/archive/6.0.0.tar.gz
 _md5_=3dbee758686ae719d0edb0c804d9f433
