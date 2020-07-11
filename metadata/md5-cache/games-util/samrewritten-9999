@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=dev-cpp/gtkmm:* dev-libs/yajl games-util/steam-launcher zenity? ( gnome-extra/zenity )
 SLOT=0
 _eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	git-r3	8ec5b53812bce105ae7943930e4660f8	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=dc06131e7e25ae7dbc2eae96359f55c6
+_md5_=f221340a4135d80176d1bb30313cfd00
