@@ -3,8 +3,8 @@ app-editors/visual-studio-code 1.46.1 1.47.0: Multiplatform Visual Studio Code f
 app-emulation/dxvk 9999: A Vulkan-based translation layer for Direct3D 10/11
 app-emulation/vkd3d-proton 9999: Development branches for Proton's Direct3D 12 implementation.
 app-emulation/wine-staging 5.12: Free implementation of Windows(tm) on Unix, with Wine-Staging patchset
-dev-dotnet/dotnetcore-sdk-bin 3.1.301: .NET Core SDK - binary precompiled for glibc
-dev-dotnet/dotnetcore-sdk-bin-common 3.1.301: Common files shared between multiple slots of .NET Core
+dev-dotnet/dotnetcore-sdk-bin 3.1.105 3.1.301: .NET Core SDK - binary precompiled for glibc
+dev-dotnet/dotnetcore-sdk-bin-common 3.1.105 3.1.301: Common files shared between multiple slots of .NET Core
 dev-vcs/git-extras 5.1.0 6.0.0 9999: Extra GIT utilities - repo summary, changelog population, commit percentages and more
 games-util/samrewritten 9999 202005: Steam Achievement Manager For Linux
 media-fonts/siji 9999: An iconic bitmap font based on Stlarch with additional glyphs
