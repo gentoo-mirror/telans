@@ -3,11 +3,11 @@ DESCRIPTION=.NET Core SDK - binary precompiled for glibc
 EAPI=7
 HOMEPAGE=https://www.microsoft.com/net/core
 IUSE=libressl
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=MIT
 RDEPEND=>=dev-dotnet/dotnetcore-sdk-bin-common-3.1.106 >=sys-apps/lsb-release-1.4 >=sys-devel/llvm-4.0 >=dev-util/lldb-4.0 >=sys-libs/libunwind-1.1-r1 >=dev-libs/icu-57.1 >=dev-util/lttng-ust-2.8.1 !libressl? ( dev-libs/openssl:0= ) libressl? ( dev-libs/libressl:0= ) >=net-misc/curl-7.49.0 >=app-crypt/mit-krb5-1.14.2 >=sys-libs/zlib-1.2.8-r1 !dev-dotnet/dotnetcore-sdk !dev-dotnet/dotnetcore-sdk-bin:0 !dev-dotnet/dotnetcore-runtime-bin !dev-dotnet/dotnetcore-aspnet-bin
 RESTRICT=splitdebug
 SLOT=3.1
 SRC_URI=https://download.visualstudio.microsoft.com/download/pr/03bf81cd-0275-4998-8a24-dc359fc5fed3/7450f821f9cd33c205378e1a0a5b2cb2/dotnet-sdk-3.1.106-linux-x64.tar.gz
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
-_md5_=4a1e287e59b85c7ab245d7623da59c51
+_md5_=bb1a64c0a66ed5d8e5205f98bc34add6
