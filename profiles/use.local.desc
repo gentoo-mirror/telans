@@ -65,9 +65,6 @@ app-emulation/wine-staging:xml - Add support for XML files
 dev-dotnet/dotnetcore-sdk-bin:libressl - Add support for libressl over openssl
 games-util/samrewritten:zenity - Add support for fancy notifications through zenity
 media-fonts/siji:pcf - Package the the .pcf font format
-media-libs/svt-av1:ffmpeg - Require support for ffmpeg through the "libsvt_av1" encoder and "svt_av1" USE flag
-media-libs/svt-hevc:ffmpeg - Require support for ffmpeg through the "libsvt_vp9" encoder and "svt_vp9" USE flag
-media-libs/svt-vp9:ffmpeg - Require support for ffmpeg through the "libsvt_vp9" encoder and "svt_vp9" USE flag
 media-video/ffmpeg:amr - Enables Adaptive Multi-Rate Audio support
 media-video/ffmpeg:amrenc - Enables Adaptive Multi-Rate Audio encoding support with media-libs/vo-amrwbenc.
 media-video/ffmpeg:appkit - Enables Apple AppKit framework
