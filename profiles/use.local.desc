@@ -2,7 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-editors/micro:debug - Enable debugging support
 app-emulation/dxvk:custom-cflags - Pass through global flags to the compiler
 app-emulation/dxvk:dxvk-config - Add support for global configuration files
 app-emulation/vkd3d-proton:extras - Package with demo files etc
