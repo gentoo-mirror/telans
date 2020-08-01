@@ -9,7 +9,7 @@ games-util/samrewritten 9999 202005: Steam Achievement Manager For Linux
 media-fonts/siji 9999: An iconic bitmap font based on Stlarch with additional glyphs
 media-libs/svt-av1 0.8.4: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-libs/svt-hevc 1.4.3: Scalable Video Technology for HEVC (SVT-HEVC Encoder and Decoder)
-media-libs/svt-vp9 0.2.1: Scalable Video Technology for VP9 (SVT-VP9 Encoder and Decoder)
-media-video/ffmpeg 4.2.4 4.3 4.3-r1: Complete solution to record/convert/stream audio and video. Includes libavcodec
+media-libs/svt-vp9 0.2.2: Scalable Video Technology for VP9 (SVT-VP9 Encoder and Decoder)
+media-video/ffmpeg 4.2.4 4.3.1: Complete solution to record/convert/stream audio and video. Includes libavcodec
 sys-fs/diskonaut 0.8.0 0.9.0 9999: Terminal disk space navigator
-x11-drivers/nvidia-drivers 440.66.17 450.56.02: NVIDIA Accelerated Graphics Driver
+x11-drivers/nvidia-drivers 450.56.02: NVIDIA Accelerated Graphics Driver
