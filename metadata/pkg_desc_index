@@ -5,7 +5,7 @@ app-emulation/wine-staging 5.14: Free implementation of Windows(tm) on Unix, wit
 dev-dotnet/dotnetcore-sdk-bin 3.1.105 3.1.106 3.1.301 3.1.302: .NET Core SDK - binary precompiled for glibc
 dev-dotnet/dotnetcore-sdk-bin-common 3.1.105 3.1.106 3.1.301 3.1.302: Common files shared between multiple slots of .NET Core
 dev-vcs/git-extras 5.1.0 6.0.0 9999: Extra GIT utilities - repo summary, changelog population, commit percentages and more
-games-util/samrewritten 9999 202005: Steam Achievement Manager For Linux
+games-util/samrewritten 9999 202005 202008: Steam Achievement Manager For Linux
 media-fonts/siji 9999: An iconic bitmap font based on Stlarch with additional glyphs
 media-libs/svt-av1 0.8.4 9999: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 media-libs/svt-hevc 1.4.3 1.5.0 9999: Scalable Video Technology for HEVC (SVT-HEVC Encoder and Decoder)
