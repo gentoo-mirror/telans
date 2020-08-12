@@ -62,6 +62,14 @@ app-emulation/wine-staging:xcomposite - Enable support for the Xorg composite ex
 app-emulation/wine-staging:xinerama - Add support for querying multi-monitor screen geometry through the Xinerama API
 app-emulation/wine-staging:xml - Add support for XML files
 dev-dotnet/dotnetcore-sdk-bin:libressl - Add support for libressl over openssl
+dev-util/perf:clang - Enable builtin clang and LLVM support
+dev-util/perf:demangle - Enable C++ symbol name demangling, using libbfd from sys-devel/binutils. When this flag is enabled, the package will have to be rebuilt after every version bump of binutils.
+dev-util/perf:doc - Build documentation and man pages. With this USE flag disabled, the --help parameter for perf and its sub-tools will not be available. This is optional because it depends on a few documentation handling tools that are not always welcome on user systems.
+dev-util/perf:libressl - Require/support libressl instead of openssl
+dev-util/perf:numa - Enable NUMA support
+dev-util/perf:perl - Add support for Perl as a scripting language for perf tools.
+dev-util/perf:systemtap - Add support to define SDT event in perf tools.
+dev-util/perf:unwind - Use sys-libs/libunwind for frame unwinding support.
 games-util/samrewritten:zenity - Add support for fancy notifications through zenity
 media-fonts/siji:pcf - Package the the .pcf font format
 media-video/ffmpeg:amr - Enables Adaptive Multi-Rate Audio support
