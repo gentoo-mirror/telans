@@ -1,13 +1,13 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install postinst postrm prepare unpack
-DEPEND=dev-cpp/gtkmm:* dev-libs/yajl
+DEPEND=dev-cpp/gtkmm dev-libs/yajl
 DESCRIPTION=Steam Achievement Manager For Linux
 EAPI=7
 HOMEPAGE=https://github.com/PaulCombal/SamRewritten/
 IUSE=+zenity
 LICENSE=GPL-3
 PROPERTIES=live
-RDEPEND=dev-cpp/gtkmm:* dev-libs/yajl games-util/steam-launcher zenity? ( gnome-extra/zenity )
+RDEPEND=dev-cpp/gtkmm dev-libs/yajl games-util/steam-launcher zenity? ( gnome-extra/zenity )
 SLOT=0
 _eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	git-r3	8ec5b53812bce105ae7943930e4660f8	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=f221340a4135d80176d1bb30313cfd00
+_md5_=e3440702ed3edb0b4a2471222f30b4c7

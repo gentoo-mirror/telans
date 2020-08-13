@@ -10,4 +10,4 @@ RESTRICT=splitdebug
 SLOT=3.1
 SRC_URI=https://download.visualstudio.microsoft.com/download/pr/c1a30ceb-adc2-4244-b24a-06ca29bb1ee9/6df5d856ff1b3e910d283f89690b7cae/dotnet-sdk-3.1.302-linux-x64.tar.gz
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
-_md5_=9e2d1305d4a3c46cb39265a3b1645085
+_md5_=c8c27065cbf59ff9e9a228c190c53530

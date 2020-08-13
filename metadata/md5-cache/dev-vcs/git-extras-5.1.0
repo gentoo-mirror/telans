@@ -8,4 +8,4 @@ LICENSE=MIT
 RDEPEND=dev-vcs/git
 SLOT=0
 SRC_URI=https://github.com/tj/git-extras/archive/5.1.0.tar.gz
-_md5_=3dbee758686ae719d0edb0c804d9f433
+_md5_=daec13ab86082152fed88a9cb0dbcc4e
