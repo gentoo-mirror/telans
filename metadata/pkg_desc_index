@@ -1,4 +1,4 @@
-app-editors/visual-studio-code 1.47.3 1.48.0: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.47.3 1.48.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/dxvk 9999: A Vulkan-based translation layer for Direct3D 10/11
 app-emulation/vkd3d-proton 9999: Development branches for Proton's Direct3D 12 implementation.
 app-emulation/wine-staging 5.14 5.15: Free implementation of Windows(tm) on Unix, with Wine-Staging patchset
