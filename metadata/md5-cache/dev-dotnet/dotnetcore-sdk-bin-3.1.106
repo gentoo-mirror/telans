@@ -9,5 +9,5 @@ RDEPEND=>=dev-dotnet/dotnetcore-sdk-bin-common-3.1.106 >=sys-apps/lsb-release-1.
 RESTRICT=splitdebug
 SLOT=3.1
 SRC_URI=https://download.visualstudio.microsoft.com/download/pr/03bf81cd-0275-4998-8a24-dc359fc5fed3/7450f821f9cd33c205378e1a0a5b2cb2/dotnet-sdk-3.1.106-linux-x64.tar.gz
-_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=e8046761852f0f9cf340e072d815cb6d
