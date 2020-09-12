@@ -14,4 +14,4 @@ media-libs/svt-hevc 1.4.3 1.5.0 9999: Scalable Video Technology for HEVC (SVT-HE
 media-libs/svt-vp9 0.2.2 9999: Scalable Video Technology for VP9 (SVT-VP9 Encoder)
 media-video/ffmpeg 4.2.4 4.3.1: Complete solution to record/convert/stream audio and video. Includes libavcodec
 sys-fs/diskonaut 0.9.0 0.10.0 9999: Terminal disk space navigator
-x11-drivers/nvidia-drivers 450.56.02 450.56.06: NVIDIA Accelerated Graphics Driver
+x11-drivers/nvidia-drivers 450.56.06 450.56.11: NVIDIA Accelerated Graphics Driver
