@@ -1,7 +1,7 @@
 app-editors/visual-studio-code 1.48.2 1.49.0: Multiplatform Visual Studio Code from Microsoft
 app-emulation/dxvk 9999: A Vulkan-based translation layer for Direct3D 10/11
 app-emulation/vkd3d-proton 9999: Development branches for Proton's Direct3D 12 implementation.
-app-emulation/wine-staging 5.14 5.15: Free implementation of Windows(tm) on Unix, with Wine-Staging patchset
+app-emulation/wine-staging 5.14 5.15 5.17: Free implementation of Windows(tm) on Unix, with Wine-Staging patchset
 dev-dotnet/dotnetcore-sdk-bin 3.1.106 3.1.107 3.1.302 3.1.401: .NET Core SDK - binary precompiled for glibc
 dev-dotnet/dotnetcore-sdk-bin-common 3.1.106 3.1.107 3.1.302 3.1.401: Common files shared between multiple slots of .NET Core
 dev-util/perf 5.7-r1 5.8: Userland tools for Linux Performance Counters
