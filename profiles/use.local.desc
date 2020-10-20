@@ -4,9 +4,6 @@
 
 app-emulation/dxvk:custom-cflags - Pass through global flags to the compiler
 app-emulation/dxvk:dxvk-config - Add support for global configuration files
-app-emulation/vkd3d-proton:extras - Package with demo files etc
-app-emulation/vkd3d-proton:standalone - Build vkd3d as a standalone library
-app-emulation/vkd3d-proton:tests - Package with the testing binary `d3d12`
 app-emulation/wine-staging:X - Add support for the Xorg window server
 app-emulation/wine-staging:capi - Enable ISDN support via CAPI
 app-emulation/wine-staging:custom-cflags - Bypass strip-flags

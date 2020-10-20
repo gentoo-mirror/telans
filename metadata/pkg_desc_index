@@ -1,11 +1,9 @@
 app-editors/visual-studio-code 1.48.2 1.49.0: Multiplatform Visual Studio Code from Microsoft
 app-emulation/dxvk 9999: A Vulkan-based translation layer for Direct3D 10/11
-app-emulation/vkd3d-proton 9999: Development branches for Proton's Direct3D 12 implementation.
-app-emulation/wine-staging 5.14 5.15 5.17: Free implementation of Windows(tm) on Unix, with Wine-Staging patchset
+app-emulation/wine-staging 5.17: Free implementation of Windows(tm) on Unix, with Wine-Staging patchset
 dev-dotnet/dotnetcore-sdk-bin 3.1.106 3.1.107 3.1.302 3.1.401: .NET Core SDK - binary precompiled for glibc
 dev-dotnet/dotnetcore-sdk-bin-common 3.1.106 3.1.107 3.1.302 3.1.401: Common files shared between multiple slots of .NET Core
 dev-util/perf 5.7-r1 5.8: Userland tools for Linux Performance Counters
-dev-vcs/git-extras 5.1.0 6.0.0 9999: Extra GIT utilities - repo summary, changelog population, commit percentages and more
 games-util/mangohud 9999: A Vulkan and OpenGL overlay for monitoring FPS, CPU/GPU load and more.
 games-util/samrewritten 9999 202005 202008: Steam Achievement Manager For Linux
 media-fonts/siji 9999: An iconic bitmap font based on Stlarch with additional glyphs
@@ -14,4 +12,4 @@ media-libs/svt-hevc 1.4.3 1.5.0 9999: Scalable Video Technology for HEVC (SVT-HE
 media-libs/svt-vp9 0.2.2 9999: Scalable Video Technology for VP9 (SVT-VP9 Encoder)
 media-video/ffmpeg 4.2.4 4.3.1: Complete solution to record/convert/stream audio and video. Includes libavcodec
 sys-fs/diskonaut 0.9.0 0.10.0 9999: Terminal disk space navigator
-x11-drivers/nvidia-drivers 450.56.06 450.56.11: NVIDIA Accelerated Graphics Driver
+x11-drivers/nvidia-drivers 450.56.11 455.26.01: NVIDIA Accelerated Graphics Driver
