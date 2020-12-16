@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=dev-cpp/gtkmm dev-libs/yajl games-util/steam-launcher zenity? ( gnome-extra/zenity )
 SLOT=0
 SRC_URI=https://github.com/PaulCombal/samrewritten/archive/202005.tar.gz
-_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=desktop	8f9bfcc33705104f56748d9dedb3177a	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=3fcf7d473d485070203eace3604f6e93
