@@ -58,8 +58,8 @@ app-emulation/wine-staging:vulkan - Enable Vulkan drivers
 app-emulation/wine-staging:xcomposite - Enable support for the Xorg composite extension
 app-emulation/wine-staging:xinerama - Add support for querying multi-monitor screen geometry through the Xinerama API
 app-emulation/wine-staging:xml - Add support for XML files
-dev-dotnet/dotnetcore-sdk-bin:libressl - Add support for libressl over openssl
-games-util/samrewritten:zenity - Add support for fancy notifications through zenity
+dev-libs/libcgroup:daemon - Install the configuration tools and init/config files.
+dev-libs/libcgroup:tools - Install the cgroup rules processing daemon and init/config files.
 media-fonts/siji:pcf - Package the the .pcf font format
 x11-drivers/nvidia-drivers:X - Install the X.org driver, OpenGL libraries, XvMC libraries, and VDPAU libraries
 x11-drivers/nvidia-drivers:acpi - Add support for ACPI interaction
