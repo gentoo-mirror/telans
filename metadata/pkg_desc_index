@@ -1,2 +1,3 @@
-games-util/mangohud 9999: A Vulkan and OpenGL overlay for monitoring FPS, CPU/GPU load and more.
-media-fonts/siji 9999: An iconic bitmap font based on Stlarch with additional glyphs
+games-util/ckan-bin 1.30.4: 
+media-gfx/brother-mfc-j6930dw 1.0.1: Brother scanner driver
+x11-misc/ly 0.5.3: Ly - a TUI display manager
